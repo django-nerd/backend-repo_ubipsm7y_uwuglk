@@ -153,6 +153,69 @@ def build_overview():
             "Faith and life are remarkably close.",
             "The divide centers on expression about the one Christ, not different faiths in Him.",
             "Full communion requires shared statements, lifting anathemas, and agreement on later councils."
+        ],
+        # --- Expanded sections ---
+        "soteriology": {
+            "shared": [
+                "Salvation as healing and participation (theosis), not merely legal acquittal.",
+                "Synergy: divine grace and human freedom cooperate without confusion.",
+                "Ascetic life, prayer, and sacraments are means of transformation."
+            ],
+            "nuances": [
+                "Different theological accents in explaining how natures/wills relate in Christ and in us.",
+                "Patristic sources emphasized vary by local tradition (e.g., Cyril, Severus vs. Maximus, John Damascene)."
+            ]
+        },
+        "sacraments_detail": {
+            "number": 7,
+            "notes": [
+                "Both families celebrate the same sacramental mysteries though local rites differ.",
+                "Infant baptism with immediate chrismation/confirmation is normative.",
+                "Communion under both kinds, real participation in the Body and Blood of Christ."
+            ]
+        },
+        "spirituality": [
+            "Monastic traditions (Egyptian desert, Syriac, Athonite) deeply shape both families.",
+            "Icon veneration is central in EO; OO traditions honor sacred images and crosses with local styles.",
+            "Fasting seasons and the liturgical year structure Christian life."
+        ],
+        "ecclesiology": [
+            "Conciliar episcopal governance; autocephalous/autonomous structures by region.",
+            "Mutual recognition of apostolic succession though not in full communion.",
+            "Pastoral economy applied locally on marriages, reception, and sacraments."
+        ],
+        # --- Sources & further reading ---
+        "sources": [
+            {
+                "title": "Council of Chalcedon (AD 451) – Definition of Faith",
+                "type": "primary",
+                "link": "https://www.ewtn.com/catholicism/library/council-of-chalcedon-1435",
+                "note": "Classical statement on Christ in two natures; key point of divergent reception."
+            },
+            {
+                "title": "Third Council of Constantinople (AD 680–681) – Two Wills/Energies",
+                "type": "primary",
+                "link": "https://www.newadvent.org/cathen/04308a.htm",
+                "note": "Affirms dyothelitism in EO reception."
+            },
+            {
+                "title": "Joint Commission of the Theological Dialogue between the Orthodox Church and the Oriental Orthodox Churches – Common Statements",
+                "type": "official",
+                "link": "https://orthodoxfaith.com/ecumenical/eo-oo-joint-statements",
+                "note": "Summaries of agreed Christological formulations and remaining issues."
+            },
+            {
+                "title": "Coptic Orthodox Church – Christology FAQ",
+                "type": "official",
+                "link": "https://www.suscopts.org/q&a/index.php?qid=1164&catid=316",
+                "note": "Miaphysite self‑description rejecting Eutychianism."
+            },
+            {
+                "title": "St. Maximus the Confessor – Opuscula (selections)",
+                "type": "patristic",
+                "link": "https://www.newadvent.org/cathen/10078b.htm",
+                "note": "Key EO father articulating wills/energies."
+            }
         ]
     }
 
